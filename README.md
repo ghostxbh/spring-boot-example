@@ -1,4 +1,7 @@
 # spring-boot-example
++ [boot01](boot01/README.md)
+
+  springboot的配置值获取的三种方式
 
 + [boot02](boot02)
     
@@ -11,3 +14,8 @@
 + [boot04](boot04)
 
   整合Mybatis，Druid数据，Druid监控重写，Mybatis映射测试
+
++ [boot-mail](boot-mail/README.md)
+
+  springboot 邮件
+  

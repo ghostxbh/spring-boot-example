@@ -1,0 +1,9 @@
+spring:
+  mvc:
+    date-format: yyyy-MM-dd
+
+person:
+  name: xiaoming
+  age: 18
+server:
+  port: 8080

@@ -1,0 +1,22 @@
+#邮箱配置
+spring:
+  mail:
+    default-encoding: utf-8
+    port: 25
+    host: smtp.126.com
+    username: XXXXX@126.com
+    password: XXXXX
+    protocol: smtp
+    test-connection: false
+    properties:
+      mail:
+        smtp:
+          auth: true
+          starttls:
+            enable: true
+            required: true
+          ssl:
+            enable: false
+server:
+  port: 9091
+

@@ -19,3 +19,6 @@
 
   springboot 邮件
   
++ [boot-jooq](boot-jooq/README.md)
+
+  springboot集成`JOOQ`orm框架
